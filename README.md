@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 2nd-year engineering student at Sahyadri College of Engineering & Management.<br>I'm currently working on Agri Drone AI, an AI-powered solution for smarter agriculture.<br>I'm looking to collaborate on AI/ML, LLMs, and agriculture-based AI projects.<br>I'm looking for help with Machine Learning, Deep Learning, and AI Engineering.<br>I'm currently learning Python, Machine Learning,  and LLMs.<br>
+I'm an Engineering student at Sahyadri College of Engineering & Management.<br>I'm currently working on Agri Drone AI, an AI-powered solution for smarter agriculture.<br>I'm looking to collaborate on AI/ML, LLMs, and agriculture-based AI projects.<br>I'm looking for help with Machine Learning, Deep Learning, and AI Engineering.<br>I'm currently learning  Java,Python, Machine Learning,  and LLMs.<br>
 
 
 ## 🌐 Socials:
